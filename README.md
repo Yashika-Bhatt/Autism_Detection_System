@@ -1,7 +1,7 @@
 # Autism Detection System
 A web-based application that leverages deep learning and behavioral analysis to assess the risk of Autism Spectrum Disorder (ASD) in children. The system combines image-based facial analysis with a clinically inspired quiz to provide a comprehensive screening report.
 
-<u>**Features**</u>
+_**Features**_
 
 **Image Analysis**: Uses a fine-tuned ResNet50 CNN model to classify uploaded facial images as High or Low autism risk. 
 
@@ -14,7 +14,7 @@ A web-based application that leverages deep learning and behavioral analysis to 
 **User-Friendly Interface**: Built using Flask with an intuitive UI for easy navigation.
 
 
-<u>**Tech Stack**</u>
+_**Tech Stack**_
 
 **Frontend**: HTML, CSS, JavaScript (Flask templates)
 
@@ -24,7 +24,7 @@ A web-based application that leverages deep learning and behavioral analysis to 
 
 **Other**: OpenCV, ReportLab, NumPy
 
-<u>**Model Download**</u>
+_**Model Download**_
 
 To use the image detection feature, download the pre-trained .h5 model:
 
