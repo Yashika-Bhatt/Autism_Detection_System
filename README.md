@@ -2,6 +2,7 @@
 A web-based application that leverages deep learning and behavioral analysis to assess the risk of Autism Spectrum Disorder (ASD) in children. The system combines image-based facial analysis with a clinically inspired quiz to provide a comprehensive screening report.
 
 **Features**
+
 **Image Analysis**: Uses a fine-tuned ResNet50 CNN model to classify uploaded facial images as High or Low autism risk.
 **Autism Quiz**: A behavioral screening quiz based on clinical observations.
 **Combined Assessment**: Integrates quiz and image results to produce a final risk level.
@@ -9,6 +10,7 @@ A web-based application that leverages deep learning and behavioral analysis to 
 **User-Friendly Interface**: Built using Flask with an intuitive UI for easy navigation.
 
 **Tech Stack**
+
 **Frontend**: HTML, CSS, JavaScript (Flask templates)
 **Backend**: Python, Flask
 **Model**: TensorFlow/Keras with ResNet50
